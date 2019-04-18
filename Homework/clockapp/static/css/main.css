@@ -1,0 +1,25 @@
+body {
+    background-color: #f2e744;
+}
+
+h2,
+p {
+    color: #f2e2c4;
+}
+
+#box1 {
+    margin: 70px;
+    padding: 70px;
+    width: 300px;
+    height: 500px;
+    background-color: black;
+}
+
+#box2 {
+    margin: 50px;
+    padding: 50px;
+    border-radius: 20px;
+    width: 250px;
+    height: 440px;
+    background-color: #274029;
+}
