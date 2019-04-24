@@ -1,5 +1,5 @@
 body {
-    background-color: #f2e744;
+    background-color: #274029;
 }
 
 h2,
@@ -7,7 +7,7 @@ p {
     color: #f2e2c4;
 }
 
-#box1 {
+#frame {
     margin: 70px;
     padding: 70px;
     width: 300px;
@@ -15,11 +15,11 @@ p {
     background-color: black;
 }
 
-#box2 {
+#display {
     margin: 40px;
     padding: 50px;
     border-radius: 20px;
     width: 250px;
     height: 440px;
-    background-color: #274029;
+    background-color: #f2e744;
 }
