@@ -2,17 +2,25 @@
 <html lang="ko">
     {% load staticfiles %}
     <head>
-        <title>로켓트</title>
+        <title>잔나비 됴아</title>
         <link rel="stylesheet" href="{% static 'css/main.css' %}" />
     </head>
 
     <body>
         <div id="frame" style="border-style: solid">
-            <div id="display" style="border-style:solid">
-                <h2>현재 시각은</h2>
-                <p id="date">{{ a.month }}월 {{ a.day }}일 {{ weekday }}요일</p>
-                <p id="time">{{ AM }} {{ hour }}시 {{ a.minute }}분 {{ a.second }}초 입니다.</p>
-            </div>
+            <h2>현재 시각은</h2>
+            <p id="date">
+                <span id="day">{{ a.month }}</span
+                >월 <span id="day">{{ a.day }}</span
+                >일 <span id="day">{{ weekday }}</span
+                >요일
+            </p>
+            <p id="time">
+                {{ AM }} <span id="day">{{ hour }}</span
+                >시 <span id="day">{{ a.minute }}</span
+                >분 <span id="day">{{ a.second }}</span
+                >초 입니다.
+            </p>
         </div>
     </body>
 </html>
