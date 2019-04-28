@@ -4,29 +4,26 @@ body {
 
 h2,
 p {
-    color: black;
+    text-align: center;
+    color: #f2e2c4;
+}
+
+#day {
+    color: #f2ab27;
+    font-size: 20px;
 }
 
 #frame {
-    margin: 100px;
-    padding: 70px;
+    width: 400px;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    height: 150px;
+    top: 0;
+    bottom: 0;
+    margin-top: auto;
+    margin-bottom: auto;
     border-radius: 15px;
-    width: 250px;
-    height: 470px;
-    background-color: black;
-}
-
-#display {
-    margin: 0px;
-    padding: 65px;
-    border-radius: 20px;
-    width: 230px;
-    height: 450px;
-    background-color: #f2e744;
-}
-
-#bar {
-    width: 230px;
-    height: 100px;
-    background-color: black;
+    border-color: #f2ab27;
 }
