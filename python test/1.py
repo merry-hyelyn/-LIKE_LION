@@ -1,1 +1,3 @@
-print("Hello World\n"*3)
+# 문제1
+
+print("Hello World\n" * 3)
