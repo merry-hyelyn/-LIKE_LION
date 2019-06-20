@@ -16,6 +16,7 @@
 
 ##### 2주차 wordcount만들기<br>
 2주차 - 1. wordcount이론
+2주차 - 2. wordcount 실습1
 =======
 
 
