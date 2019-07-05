@@ -14,7 +14,7 @@
 1주차 - 3. Hello World 실습[완료]<br>
 1.5주차 -  MTV 패턴[완료]<br><br>
 
-##### 2주차 wordcount만들기<br>
+##### 2주차 wordcount만들기
 2주차 - 1. wordcount이론[완료]<br>
 =======
 
