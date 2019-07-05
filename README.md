@@ -16,6 +16,9 @@
 
 ##### 2주차 wordcount만들기
 2주차 - 1. wordcount이론[완료]<br>
+2주차 - 2. wordcount 실습1[완료]<br>
+2주차 - 3. wordcount 실습2[완료]<br>
+2.5주차 - Git[완료]<br>
 
 
 2주차
