@@ -18,4 +18,4 @@ complex2 = {
 }
 
 result = plus(complex1, complex2)
-print(complex1, complex2, result)
+print(complex1, complex2, result, sep='\n')
