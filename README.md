@@ -26,7 +26,7 @@
 <<<<<<< HEAD
 3주차 - 2. model&admin 실습[완료]<br>
 3주차 - 2. model&admin 실습
->>>>>>> da811f1a165ca125c6918d43a95dc30106373629
+
 #### < Python >
 0. Orientation[완료]<br>
 1. 변수와 상수[완료]<br>
