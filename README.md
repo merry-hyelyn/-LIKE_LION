@@ -24,7 +24,7 @@
 ##### 3주차 모델을 알아보자
 3주차 - 1. model&admin 이론[완료]<br>
 3주차 - 2. model&admin 실습[완료]<br>
-3주차 - 2. model&admin 실습
+3주차 - 2. model&admin 실습[완료]<br>
 
 #### < Python >
 0. Orientation[완료]<br>
